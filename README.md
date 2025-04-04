@@ -13,9 +13,10 @@ This Python script extracts tables from a PDF file and saves them as an Excel fi
 
 Ensure you have the required dependencies installed:
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/28a3f26a-4e3f-4675-8364-5c2f68aca7a6)
+
 ```bash
 pip install pdfplumber pandas openpyxl
 
 
-## Screenshots
-![image](https://github.com/user-attachments/assets/28a3f26a-4e3f-4675-8364-5c2f68aca7a6)
