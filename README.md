@@ -15,3 +15,5 @@ Ensure you have the required dependencies installed:
 
 ```bash
 pip install pdfplumber pandas openpyxl
+
+![image](https://github.com/user-attachments/assets/df83f733-66e7-4cf5-879d-7453d20a0f1b)
